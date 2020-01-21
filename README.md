@@ -283,7 +283,7 @@ docker-compose up
 
 还有一个疑问，本地开发环境好了，是和线上环境一致的，那么怎样部署到服务器呢？
 
-我们下一篇见：[Docker + node(koa) + nginx + mysql 线上环境部署]()
+我们下一篇见：[Docker + node(koa) + nginx + mysql 线上环境部署](https://github.com/tonysoul/docker-koa-prod)
 
 ## 附录
 ### docker-compose.yml
